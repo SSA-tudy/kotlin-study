@@ -9,3 +9,6 @@
 
 ## 플랫폼
 - 노션 ? 위키 ? 깃헙 ?
+
+## 참고 링크
+- https://github.com/Java-Bom/ReadingRecord/issues?_pjax=%23repo-content-pjax-container&page=2&q=is%3Aissue+is%3Aclosed+label%3A%22Effective+Java+3%22
